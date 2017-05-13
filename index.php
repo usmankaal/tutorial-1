@@ -23,7 +23,7 @@
 
 </head>
 <body>
-<form id="myform" name="theform" class="group" action="#" method="POST">
+<form id="myform" name="theform" class="group" action="process.php" method="POST">
 	<fieldset id="login" title="Login Info">
 		<legend>Login Info</legend>
 		<ol>
